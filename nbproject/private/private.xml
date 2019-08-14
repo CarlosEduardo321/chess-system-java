@@ -7,11 +7,14 @@
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/application/UI.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/ChessMatch.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/boardgame/Board.java</file>
+            <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/ChessPosition.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/pieces/King.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/boardgame/Piece.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/Color.java</file>
             <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/application/Program.java</file>
+            <file>file:/C:/Users/minec/Documents/NetBeansProjects/Program-chess/src/chess/ChessException.java</file>
         </group>
     </open-files>
 </project-private>
