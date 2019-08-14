@@ -13,14 +13,19 @@ import chess.Color;
  *
  * @author Dudu
  */
-public class King extends ChessPiece{
-    
+public class King extends ChessPiece {
+
     public King(Color color, Board board) {
         super(color, board);
     }
-    
+
     @Override
-    public String toString(){
+    public String toString() {
         return "K";
+    }
+
+    public boolean[][] possibleMoves() {
+        boolean[][] mat = new boolean[getBoard().getRows()][getBoard().getColumns()];
+        return mat;
     }
 }
